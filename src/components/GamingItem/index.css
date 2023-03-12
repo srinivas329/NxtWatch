@@ -1,0 +1,11 @@
+.game-list-item {
+  list-style-type: none;
+}
+.game-thumbnail {
+  width: 190px;
+  height: 250px;
+}
+.gaming-list-item {
+  text-decoration: none;
+  padding: 20px;
+}

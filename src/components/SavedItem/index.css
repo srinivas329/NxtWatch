@@ -1,0 +1,21 @@
+.saved-list-item {
+  list-style-type: none;
+  display: flex;
+  margin: 15px;
+}
+.saved-thumbnail {
+  width: 300px;
+  margin-right: 15px;
+  height: 190px;
+}
+.views-count {
+  display: flex;
+  align-items: center;
+}
+.views-num {
+  font-weight: 600;
+  margin-right: 15px;
+}
+.saved-heading {
+  font-weight: 700;
+}

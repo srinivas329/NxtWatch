@@ -1,0 +1,29 @@
+.profile {
+  width: 30px;
+  height: 30px;
+}
+.header-bg {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.header-profile {
+  display: flex;
+  align-items: center;
+  width: 250px;
+  justify-content: space-around;
+}
+.header-logo {
+  width: 150px;
+  height: 40px;
+}
+.logOutButton {
+  background-color: white;
+  color: #3b82f6;
+  border: 2px solid #3b82f6;
+  width: 80px;
+  height: 30px;
+  border-radius: 7px;
+  font-weight: 600;
+}

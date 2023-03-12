@@ -1,0 +1,64 @@
+.video-page-container {
+  display: flex;
+}
+.video-tab {
+  width: 100px;
+}
+.like-btn {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  margin-left: 15px;
+}
+.like-text {
+  margin-left: 12px;
+  font-weight: 600;
+}
+.like-container {
+  display: flex;
+  align-items: center;
+}
+.view-date-tab {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px;
+}
+.content-tab {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.channel-profile {
+  width: 50px;
+  height: 50px;
+  margin-top: 18px;
+  margin-right: 20px;
+}
+.description-container {
+  display: flex;
+}
+.video-container {
+  overflow-y: scroll;
+  height: 90vh;
+  width: 100%;
+  padding: 20px;
+}
+.description {
+  font-weight: 500;
+}
+.title {
+  font-weight: 500;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+.like-dislike-color {
+  color: #3b82f6;
+}
+.loader-container {
+  height: 80vh;
+  margin-top: 200px;
+  margin-left: 500px;
+}

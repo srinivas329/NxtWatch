@@ -1,0 +1,22 @@
+.saved-videos-page-container {
+  display: flex;
+}
+.saved-logo-container {
+  display: flex;
+  align-items: center;
+}
+.saved-ul-list {
+  padding: 0px;
+}
+.no-videos-img {
+  width: 400px;
+  height: 350px;
+}
+.no-saved-videos-container {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 300px;
+}

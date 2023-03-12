@@ -1,0 +1,11 @@
+.gaming-page-container {
+  display: flex;
+}
+.gaming-ul-list {
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.gaming-div-container {
+  display: flex;
+}

@@ -1,0 +1,121 @@
+.left-icon-tab {
+  display: flex;
+  align-items: center;
+}
+.home-text {
+  font-weight: 600;
+  margin-left: 25px;
+}
+.logos {
+  width: 40px;
+  height: 40px;
+}
+.home-bg {
+  background-color: white;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+}
+.home-container {
+  height: 100vh;
+}
+.left-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  width: 18%;
+  height: 90vh;
+}
+.right-container {
+  height: 90vh;
+  width: 82%;
+  overflow-y: scroll;
+}
+.logos-container {
+  display: flex;
+  width: 70%;
+  justify-content: space-between;
+}
+.contact-us {
+  font-weight: 700;
+  color: #1e293b;
+}
+.tag {
+  width: 95%;
+  font-weight: 600;
+  color: #1e293b;
+}
+.prime-banner-bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  background-size: cover;
+  padding: 20px;
+  width: 100%;
+}
+.right-bottom-bg {
+  background-color: #f8fafc;
+  background-size: cover;
+  padding: 20px;
+  width: 100%;
+}
+.prime-button {
+  background-color: transparent;
+  border: 2px solid #4f46e5;
+  width: 100px;
+  height: 50px;
+  margin-top: 30px;
+  color: #4f46e5;
+}
+.wrong-tab {
+  display: flex;
+  justify-content: space-between;
+}
+
+.search-input {
+  background-color: white;
+  width: 300px;
+  height: 25px;
+  outline: none;
+  border-width: 0px;
+  border: 1px solid #94a3b8;
+  border-top: none;
+  border-bottom: none;
+  border-left: none;
+}
+.search-tab {
+  display: flex;
+  align-items: center;
+  background-color: #e2e8f0;
+  width: 350px;
+  border-radius: 3px;
+  border: 1px solid #94a3b8;
+}
+.search-icon {
+  width: 20px;
+  height: 20px;
+  margin-left: 15px;
+  color: #475569;
+  cursor: pointer;
+}
+.videos-ul-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+.retry-btn {
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 80px;
+  height: 30px;
+}
+.failure-img {
+  width: 300px;
+  height: 300px;
+}
+.failure-container {
+  text-align: center;
+  margin-top: 20px;
+  height: 100vh;
+}
